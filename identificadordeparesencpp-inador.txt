@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+main () {
+
+int X;
+int Y = 2;
+
+cin >> X;
+
+if (X % Y == 0) {
+cout << "este numero es par" << endl;}
+else {
+cout >> "este numero no es par << endl;}
+
+}
